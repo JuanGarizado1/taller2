@@ -2,6 +2,4 @@
 oferta academica del centro de gestion de mercado logistica y tecnologica de la informacion
 teleinformatica
 logistica
-mercado
-industria creativas 
-formacion complementaria 
+mercado  
